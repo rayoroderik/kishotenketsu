@@ -14,12 +14,24 @@
 		<string>Added</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/1A470355-9534-47BC-84B9-F43CBD6F5A2E.playgroundpage/main.swift</key>
 		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/E0D713A0-2093-4241-B1D5-0BDEFF1DE6AD.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/E0D713A0-2093-4241-B1D5-0BDEFF1DE6AD.playgroundpage/main.swift</key>
+		<string>Modified</string>
 		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</key>
 		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</key>
+		<string>Modified</string>
 		<key>Chapters/Chapter1.playgroundchapter/UserManifest.plist</key>
 		<string>Added</string>
-		<key>UserModules/UserModule.playgroundmodule/Sources/ComicLayout.swift</key>
+		<key>UserModules/UserModule.playgroundmodule/Sources/CameraView.swift</key>
 		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/ComicLayoutView.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/ExampleLayoutView.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
+		<string>Removed</string>
 	</dict>
 	<key>FormatVersion</key>
 	<integer>2</integer>

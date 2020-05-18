@@ -1,9 +1,12 @@
 
-//: ## Hello!
+//: # Hello!
 //:
-//: My name is Rayo and this is Kishōtenketsu.
+//: ## My name is Rayo and this is Kishōtenketsu.
 //:
-//: I'll tell you about 4 pages comic strip and we'll make one together!
+//:
+//: ## In this playground we will create a 4 panels comic.
+//: ## This format is called 4-koma manga in japan and it is super popular.
+//:
+//:
 //:
 //: [Click here to begin!](@next)
-//:

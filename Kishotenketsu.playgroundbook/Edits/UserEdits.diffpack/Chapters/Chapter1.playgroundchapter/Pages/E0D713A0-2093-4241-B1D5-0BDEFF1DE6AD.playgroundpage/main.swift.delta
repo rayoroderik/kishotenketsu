@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseFile</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/Template.playgroundpage/main.swift</string>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>import PlaygroundSupport
+import SwiftUI
+
+var comicLayout = ComicLayoutView()
+PlaygroundPage.current.setLiveView(comicLayout)
+
+/*
+ Let's build your own 4 panel comic, try to apply the Kishōtenketsu structure as well!
+ 
+ Here's the how to steps,
+ - First, press Run my code if you haven't.
+ - Second, click on the picture icon and get a picture from your gallery or camera.
+ - Third, add more context to the picture by giving it a subtitle, press done or enter when you're done with the text input.
+ - Fourth, repeat step 2 and 3 three more times to complete all four panel.
+ - Finally, give your freshly created 4 panel comic a nice title!
+ */
+</string>
+			<key>ModifiedRange</key>
+			<string>{1, 643}</string>
+			<key>OriginalContent</key>
+			<string>
+</string>
+			<key>OriginalRange</key>
+			<string>{1, 1}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
